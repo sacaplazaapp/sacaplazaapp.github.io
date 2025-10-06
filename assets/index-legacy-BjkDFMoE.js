@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CSXa1uLC.js"],function(e,t){"use strict";var n,r;return{setters:[e=>{n=e.r,r=e._}],execute:function(){e("ScreenOrientation",n("ScreenOrientation",{web:()=>r(()=>t.import("./web-legacy-DzIVAVee.js"),void 0).then(e=>new e.ScreenOrientationWeb)}))}}});

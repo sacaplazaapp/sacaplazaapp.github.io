@@ -1,1 +1,0 @@
-System.register(["./index-legacy-i6OdxmcJ.js"],function(e,t){"use strict";var n,r;return{setters:[e=>{n=e.r,r=e._}],execute:function(){e("ScreenOrientation",n("ScreenOrientation",{web:()=>r(()=>t.import("./web-legacy-CrIBCK5I.js"),void 0).then(e=>new e.ScreenOrientationWeb)}))}}});
